@@ -1,0 +1,8 @@
+table tr th {
+    background-color: gray;
+    color: yellow;
+}
+
+table{
+    align-items: center;
+}
